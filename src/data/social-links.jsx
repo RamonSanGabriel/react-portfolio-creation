@@ -5,22 +5,22 @@ import { IoIosMail } from 'react-icons/io';
 export const socialLinks = [
   {
     id: 1,
-    href: 'https://facebook.com/marventures11',
+    href: 'https://web.facebook.com/monmon.s.gabriel/',
     icon: FaFacebookF,
   },
   {
     id: 2,
-    href: 'https://linkedin.com/in/marventures',
+    href: 'https://www.linkedin.com/in/ramon-san-gabriel-9a0b9b62/',
     icon: FaLinkedinIn,
   },
   {
     id: 3,
-    href: 'https://github.com/marventures',
+    href: 'https://github.com/RamonSanGabriel',
     icon: FaGithubAlt,
   },
   {
     id: 4,
-    href: 'mailto:marvedcodes@gmail.com',
+    href: 'mailto:ramonsangabriel.goit@gmail.com',
     icon: IoIosMail,
   },
 ];

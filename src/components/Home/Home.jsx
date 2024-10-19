@@ -1,5 +1,5 @@
 import css from './Home.module.css';
-import homeImage from '../../images/home-1.png';
+import homeImage from '../../images/home-1b.png';
 import { Socials } from '../Socials/Socials';
 import { homeDetails } from '../../data/home';
 
@@ -11,7 +11,7 @@ export const Home = () => {
       <div className={css.homeDetails}>
         <h1 className={css.homeName}>{name}</h1>
         <p className={css.homeText}>
-          I am a {position} from {country}
+          I am a {position} from {country} and is now located in Ireland.
         </p>
         {/* Social Links Component */}
         <Socials />
