@@ -11,7 +11,7 @@ export const Home = () => {
       <div className={css.homeDetails}>
         <h1 className={css.homeName}>{name}</h1>
         <p className={css.homeText}>
-          I am a {position} from {country} and is now located in Ireland.
+          I am a {position} from {country}.
         </p>
         {/* Social Links Component */}
         <Socials />
