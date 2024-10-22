@@ -12,7 +12,7 @@ export const aboutList1 = [
   },
   {
     id: 2,
-    description: 'Phone',
+    description: 'Mobile',
     value: '+63 956 170 5622',
   },
   {
@@ -36,12 +36,12 @@ export const aboutList2 = [
   {
     id: 3,
     description: 'Languages Spoken',
-    value: 'English, Filipino',
+    value: 'English, Tagalog',
   },
 ];
 
 export const aboutList3 = [
-  {
+  /*   {
     id: 1,
     school: 'Hogwarts University',
     year: '2006',
@@ -52,10 +52,10 @@ export const aboutList3 = [
     school: 'Hogwarts University',
     year: '2012',
     course: 'Senior High School',
-  },
+  }, */
   {
     id: 3,
-    school: 'Hogwarts University',
+    school: 'Informatics College',
     year: '2016',
     course: 'Bachelor of Science in Computer Science',
   },

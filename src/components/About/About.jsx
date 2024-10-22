@@ -14,7 +14,7 @@ export const About = () => {
         <img
           className={css.aboutImage}
           src={aboutImage}
-          alt="Juan Dela Cruz"
+          alt="Ramon San Gabriel"
           width="300"
           height="400"
         />

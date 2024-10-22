@@ -4,9 +4,9 @@
 
 /* CSS VARIABLES */
 :root {
-  --PRIMARY: #e85d04;
-  --SECONDARY: #f48c06;
-  --DARK: #303030;
+  --PRIMARY: #e76f51; /* #e85d04; */
+  --SECONDARY: #f4a261; /* #f48c06 */
+  --DARK: #264653; /* #303030 */
   --LIGHT: #edf2f4;
 }
 
