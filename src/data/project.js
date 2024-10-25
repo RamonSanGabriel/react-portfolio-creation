@@ -1,7 +1,7 @@
 // import project pictures here
-import project1 from '../images/project-1.png';
-import project2 from '../images/project-2.png';
-import project3 from '../images/project-3.png';
+import project1 from '../images/project-1a.png';
+import project2 from '../images/project-2a.png';
+import project3 from '../images/project-3a.png';
 import project4 from '../images/project-4.png';
 import project5 from '../images/project-5.png';
 import project6 from '../images/project-6.png';
@@ -14,19 +14,19 @@ export const projects = [
     id: 1,
     src: project1,
     name: 'Web Studio',
-    href: 'https://marventures.github.io/goit-markup-hw-07/',
+    href: 'https://ramonsangabriel.github.io/goit-markup-hw-07/',
   },
   {
     id: 2,
     src: project2,
     name: 'Image Gallery',
-    href: 'https://marventures.github.io/goit-js-hw-07/',
+    href: 'https://ramonsangabriel.github.io/goit-js-hw-07/01-gallery.html',
   },
   {
     id: 3,
     src: project3,
-    name: 'Color Switcher',
-    href: 'https://github.com/marventures/goit-js-hw-09',
+    name: 'Image Search',
+    href: 'https://ramonsangabriel.github.io/goit-js-hw-11/',
   },
   {
     id: 4,
@@ -37,8 +37,8 @@ export const projects = [
   {
     id: 5,
     src: project5,
-    name: 'Cat Project',
-    href: 'https://github.com/marventures/goit-js-hw-10',
+    name: 'Phonebook-React',
+    href: 'https://ramonsangabriel.github.io/goit-react-hw-08-phonebook',
   },
   {
     id: 6,
