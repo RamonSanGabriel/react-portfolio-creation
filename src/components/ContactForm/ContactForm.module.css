@@ -119,7 +119,7 @@
 
 .formInput:not(:placeholder-shown) + .formLabel,
 .formInput:focus + .formLabel,
-.formTextArea:not(:placeholder-shown) + .formLabel,
+.formTextArea:not(:placeholder-shown) + .formLabel2,
 .formTextArea:focus + .formLabel {
   transform: translateY(-100%);
 }
