@@ -8,7 +8,7 @@ export const aboutList1 = [
   {
     id: 1,
     description: 'Email',
-    value: 'ramonsangabriel1985@email.com',
+    value: 'ramonsangabriel1985@gmail.com',
   },
   {
     id: 2,
@@ -55,8 +55,8 @@ export const aboutList3 = [
   }, */
   {
     id: 3,
-    school: 'Informatics College',
-    year: '2016',
+    school: 'Informatics International College',
+    year: '2005',
     course: 'Bachelor of Science in Computer Science',
   },
 ];
@@ -64,7 +64,32 @@ export const aboutList4 = [
   {
     id: 1,
     company: 'GoIT Bootcamp',
-    year: '2024',
+    year: '2023-2024',
     position: 'Full Stack Developer',
+  },
+  {
+    id: 2,
+    company: 'Kearney',
+    year: '2014-2020',
+    position: 'Senior Office Administrator / IT Support',
+  },
+  {
+    id: 3,
+    company: 'DealsHabibi',
+    year: '2012-2013',
+    position: 'Administrative Assistant',
+  },
+
+  {
+    id: 4,
+    company: 'EDM Barge and Equipment Rental',
+    year: '2008-2012',
+    position: 'Administrative Assistant',
+  },
+  {
+    id: 5,
+    company: 'Advanced Contact Solutions',
+    year: '2007-2008',
+    position: 'Customer Service Representative',
   },
 ];
