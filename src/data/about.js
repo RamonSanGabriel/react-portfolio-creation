@@ -18,7 +18,7 @@ export const aboutList1 = [
   {
     id: 3,
     description: 'City',
-    value: 'Manila City',
+    value: 'Manila',
   },
 ];
 
