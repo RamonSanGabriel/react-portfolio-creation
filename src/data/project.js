@@ -31,13 +31,13 @@ export const projects = [
   {
     id: 4,
     src: project4,
-    name: 'Color Switcher',
-    href: 'https://github.com/marventures/goit-js-hw-09',
+    name: 'Trending Movies',
+    href: 'https://ramonsangabriel.github.io/',
   },
   {
     id: 5,
     src: project5,
-    name: 'Phonebook-React',
+    name: 'Phonebook',
     href: 'https://ramonsangabriel.github.io/goit-react-hw-08-phonebook',
   },
   {
