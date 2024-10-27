@@ -2,9 +2,9 @@
 import project1 from '../images/project-1a.png';
 import project2 from '../images/project-2a.png';
 import project3 from '../images/project-3a.png';
-import project4 from '../images/project-4.png';
+import project4 from '../images/project-4a.png';
 import project5 from '../images/project-5a.png';
-import project6 from '../images/project-6.png';
+import project6 from '../images/project-6a.png';
 import project7 from '../images/project-7.png';
 import project8 from '../images/project-8.png';
 import project9 from '../images/project-9.png';
@@ -32,7 +32,7 @@ export const projects = [
     id: 4,
     src: project4,
     name: 'Trending Movies',
-    href: 'https://ramonsangabriel.github.io/',
+    href: 'https://ramonsangabriel.github.io/goit-react-hw-05-movies-lazy',
   },
   {
     id: 5,
@@ -43,8 +43,8 @@ export const projects = [
   {
     id: 6,
     src: project6,
-    name: 'Image Search',
-    href: 'https://github.com/marventures/goit-js-hw-11',
+    name: 'Watch Spot',
+    href: 'https://ramonsangabriel.github.io/team-project-1/',
   },
   {
     id: 7,
