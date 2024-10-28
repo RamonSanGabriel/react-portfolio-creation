@@ -5,7 +5,7 @@ import project3 from '../images/project-3a.png';
 import project4 from '../images/project-4a.png';
 import project5 from '../images/project-5a.png';
 import project6 from '../images/project-6a.png';
-import project7 from '../images/project-7.png';
+import project7 from '../images/project-7a.png';
 import project8 from '../images/project-8.png';
 import project9 from '../images/project-9.png';
 
@@ -25,7 +25,7 @@ export const projects = [
   {
     id: 3,
     src: project3,
-    name: 'Image Search',
+    name: 'Image Search - JavaScript',
     href: 'https://ramonsangabriel.github.io/goit-js-hw-11/',
   },
   {
@@ -49,8 +49,8 @@ export const projects = [
   {
     id: 7,
     src: project7,
-    name: 'Image Finder',
-    href: 'https://marventures.github.io/goit-react-hw-04-images/',
+    name: 'Image Finder - React',
+    href: 'https://ramonsangabriel.github.io/goit-react-hw-03-image-finder/',
   },
   {
     id: 8,
