@@ -6,7 +6,7 @@ import project4 from '../images/project-4a.png';
 import project5 from '../images/project-5a.png';
 import project6 from '../images/project-6a.png';
 import project7 from '../images/project-7a.png';
-import project8 from '../images/project-8.png';
+import project8 from '../images/project-8a.png';
 import project9 from '../images/project-9.png';
 
 export const projects = [
