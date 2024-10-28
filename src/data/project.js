@@ -7,7 +7,7 @@ import project5 from '../images/project-5a.png';
 import project6 from '../images/project-6a.png';
 import project7 from '../images/project-7a.png';
 import project8 from '../images/project-8a.png';
-import project9 from '../images/project-9.png';
+import project9 from '../images/project-9a.png';
 
 export const projects = [
   {
@@ -61,7 +61,7 @@ export const projects = [
   {
     id: 9,
     src: project9,
-    name: 'Phonebook',
-    href: 'https://marventures.github.io/goit-react-hw-08-phonebook/',
+    name: 'Slim Mom App',
+    href: 'https://cyan0511.github.io/slim-mom/',
   },
 ];
