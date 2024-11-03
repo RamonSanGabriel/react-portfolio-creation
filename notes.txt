@@ -19,7 +19,7 @@ REFERENCE:
 2. GetForm: https://getform.io/
 3. Custom Google Fonts: https://fonts.google.com/
 4. Vercel: https://vercel.com/
-5. Squoush: https://squoosh.app/
+5. Squoosh: https://squoosh.app/
 6. React-Spinners: https://www.davidhu.io/react-spinners/
 
 
