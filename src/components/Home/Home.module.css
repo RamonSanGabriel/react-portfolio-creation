@@ -11,7 +11,7 @@
     width: 400px;
     height: 500px;
     object-fit: contain;
-    box-shadow: 10px 10px 5px #aaaaaa;
+    box-shadow: 3px 3px 10px #aaaaaa;
   }
   @media (min-width: 768px) {
     flex-direction: row;
