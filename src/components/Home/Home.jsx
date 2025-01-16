@@ -21,8 +21,8 @@ export const Home = () => {
         className={css.homeImage}
         src={homeImage}
         alt={name}
-        width="400"
-        height="500"
+        /*  width="400"
+        height="500" */
       />
     </div>
   );
