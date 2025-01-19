@@ -1,5 +1,5 @@
 import css from './Home.module.css';
-import homeImage from '../../images/home-1c.png';
+import home from '../../images/home-1c.png';
 import { Socials } from '../Socials/Socials';
 import { homeDetails } from '../../data/home';
 
@@ -19,7 +19,7 @@ export const Home = () => {
 
       <img
         className={css.homeImage}
-        src={homeImage}
+        src={home}
         alt={name}
         /*  width="400"
         height="500" */
