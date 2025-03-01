@@ -5,7 +5,7 @@ import { IoIosMail } from 'react-icons/io';
 export const socialLinks = [
   {
     id: 1,
-    href: 'https://web.facebook.com/monmon.s.gabriel/',
+    href: 'https://www.facebook.com/jeshero11/',
     icon: FaFacebookF,
   },
   {
